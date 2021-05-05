@@ -6,3 +6,6 @@ Em seu CMD execute o comando: pip install selenium.
 
 Acesse seu navegador e instale o arquivo do  [Google Chrome Driver](https://chromedriver.chromium.org/downloads).
 
+## Tutorial: 
+[COMO CRIAR UM BOT(robô) NO WHATSAPP de Mensagens - Dev Aprender](https://youtu.be/ISYHWfWvp3E)
+
